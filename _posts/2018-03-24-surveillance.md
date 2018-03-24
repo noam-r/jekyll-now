@@ -56,7 +56,7 @@ description:
 
 במקום ווטצאפ - [סיגנל](https://signal.org/) 
 
-במקום פייסבוק - [מסטודון](https://mastodon.social/about) או [דיאספורה*](https://diasporafoundation.org/')
+במקום פייסבוק - [מסטודון](https://mastodon.social/about) או [דיאספורה*](https://diasporafoundation.org/)
 
 במקום ג'ימייל - [פרוטון מייל](https://protonmail.com/)
 
