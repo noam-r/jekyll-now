@@ -2561,3 +2561,17 @@ td,th {
 th {
 	background-color: #f6f8fa;
 }
+
+.aright {
+	text-align: right;
+}
+
+.acode {
+    text-align: left;
+    direction: ltr;
+}
+
+.aimage {
+    text-align: center;
+}
+
