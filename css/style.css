@@ -2575,3 +2575,8 @@ th {
     text-align: center;
 }
 
+.english {
+    direction: ltr;
+    text-align: left;
+}
+
