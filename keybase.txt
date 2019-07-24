@@ -1,0 +1,66 @@
+==================================================================
+https://keybase.io/noamr
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://tech.b48.club
+  * I am noamr (https://keybase.io/noamr) on keybase.
+  * I have a public key with fingerprint E625 35A6 DC48 BB73 E5C2  1929 F768 17C3 6FC4 CCB3
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101cdabc55e4a4e5235d9a79c574a5fb2d904ca1723805b68fdefd0a7c21499840e0a",
+      "fingerprint": "e62535a6dc48bb73e5c21929f76817c36fc4ccb3",
+      "host": "keybase.io",
+      "key_id": "f76817c36fc4ccb3",
+      "kid": "0101cdabc55e4a4e5235d9a79c574a5fb2d904ca1723805b68fdefd0a7c21499840e0a",
+      "uid": "8fdddcd9dfbfb4a8daa47490bedc9e19",
+      "username": "noamr"
+    },
+    "service": {
+      "hostname": "tech.b48.club",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1563964300,
+  "expire_in": 157680000,
+  "prev": "b94ef28c46800e1a8028028fb39caa7cfd5bc6943aef9f58230b69d896f95795",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUmmITVEcf2+MwdhedibJtUXPuMs5997zpEFksiaMGsvrbHfeHTP3PvfeGbtk
+GVkykgbNB2QbZB2JRGGKsRNTtsiWaSRRpJnk3IlvPqpTp/Pb+v9/ne2d20Syoz9S
+va+7dXdqo7cbSWSBqVWtkIjLlkmJFdIi3nrxEsb9ILnIZlJCkhVZoQwTCiEHGHCo
+apAhbCAKDYChRVSGZECxYqiaKUOimxbjFpOxQVUFIGQCmctYikuW7RRxL+3ZTiBi
+ua5CDWKdUWASYmgcCjlSkWXopmJQTbcooJRowphy/dAhhiPY57m2KzDxSLaO9w/9
+f567rDVOsIxRhphFLAKwyTAGBkAy4YwirqBQ6HPPwaVcqB0Xl3rSqrgkoHKb8rDV
+cI0/dMBpKpcAM5eWlBHhTHtu4FK3RFCpIEj7idAaLEuH2iWcJP+kJIntMNGicJRz
+z7ddR0ooQkkDO4xVoK4hHWiyHJf40rTt8aQdKqCoSJZDNO3xchFJEOCWalJQEBJc
+waashsciGqJYFGAxSKiOgIa5hSxoqppMdMRMpFsIGghK4WKLHVdKADEnLhKZvl3k
+4KDM49Kq7E1RLTMSzY707zUw88MQePhF/iX//bW+w//+vLYZ4beLZHeI/UUuTG73
+K/Fubd7ps+TphGNdzt0clRPteX9eZtcKZ3f5jMLeR47P6pd6/i2Lv078eN28GlQO
+iuHie4VjG0bn9CnJO817dBtaubv+6sOCU6/k9cnZdUUrV/O6u+fXndqfNSd+eTg6
+2q/wa/P4yfW/nh5e0mlS0wOlOr8xMebGzpqCsd8rmvY3zny072c1a7n4IfapQ/dY
+84YBi38OyKuJffp8d++a0tGHtj4+c7G2Tfs9U3L9HFZf29L08H7DtusbDk59cuBa
+flKf2zJr47or8ekj3lZWf2yaeHThm1Fzr1bOH9d4/EsBejc4uqtjMc2q6N5w7G0y
+Y/O0OVU1O56vHLa8+OPIWx2Lt7zMOHHyzYEpz7Tf
+=YQOw
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/noamr
+
+==================================================================
